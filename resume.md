@@ -1,5 +1,5 @@
 # Stella Joo
-![profile](img/profile.jpg =250px)
+<img src="img/profile.jpg" width="200"/>
 
 jooh2@uw.edu
 
