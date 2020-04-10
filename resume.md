@@ -13,11 +13,11 @@ This is my digital portfolio! [Scalar](https://scalar.usc.edu/works/digital-port
 
 ### Education
 > University of Washington (Seattle, WA)
-  > Bachelor of Arts
-  > Geography - GIS, Mapping, and Society Track
+  >> Bachelor of Arts
+  >> Geography - GIS, Mapping, and Society Track
 
 > Grace Baptist Academy (Baguio City, Philippines)
-  > Valedictorian Graduate
+  >> Valedictorian Graduate
 
 ### Work Experience
 1. **Dining Student Assistant** (Seattle, Washington)
