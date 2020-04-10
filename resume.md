@@ -10,7 +10,7 @@ I am interested in the digital Geographies that embrace Geogrphy and the digital
 
 This is my digital portfolio! [Scalar](https://scalar.usc.edu/works/digital-portfolio-7/users/32637)
 
-### Education
+## Education
 > University of Washington (Seattle, WA)
   >> September 2016 - Present <br>
   >> Bachelor of Arts <br>
@@ -20,7 +20,7 @@ This is my digital portfolio! [Scalar](https://scalar.usc.edu/works/digital-port
   >> June 2012 - March 2015 <br>
   >> Valedictorian Graduate
 
-### Work Experience
+## Work Experience
 1. **Dining Student Assistant** (Seattle, Washington)
 * Worked at different positions in the dining area of the University of Washington
 * Accomplished to:
@@ -32,7 +32,7 @@ This is my digital portfolio! [Scalar](https://scalar.usc.edu/works/digital-port
    * Complete tasks efficiently to make the dates
    * Use English and Korean in preparing the program curriculum
 
-### Skills
+## Skills
 - Bilingual in English and Korean
 - Eligible in Computer Tasks
 - Experienced GIS Services - ArcGIS, QGIS
