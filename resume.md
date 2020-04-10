@@ -1,8 +1,7 @@
 # Stella Joo
-![profile](img/profile.jpg)
-jooh2@uw.edu
+![profile](img/profile.jpg =250px)
 
-### Summary
+jooh2@uw.edu
 
 Hello, my name is Stella Joo.
 I am a fourth-year undergraduate majoring in *Geography: GIS, Mapping, and Society*
@@ -13,10 +12,12 @@ This is my digital portfolio! [Scalar](https://scalar.usc.edu/works/digital-port
 
 ### Education
 > University of Washington (Seattle, WA)
-  >> Bachelor of Arts
+  >> September 2016 - Present <br>
+  >> Bachelor of Arts <br>
   >> Geography - GIS, Mapping, and Society Track
 
 > Grace Baptist Academy (Baguio City, Philippines)
+  >> June 2012 - March 2015 <br>
   >> Valedictorian Graduate
 
 ### Work Experience
